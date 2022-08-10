@@ -6,3 +6,7 @@
 上面用到的dll链接
 
 https://wwm.lanzouw.com/ixoj200gbcaf
+
+python版原文链接
+
+https://blog.csdn.net/Ibelievesunshine/article/details/105291637
